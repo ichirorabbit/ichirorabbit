@@ -1,5 +1,5 @@
 **ichirorabbit/ichirorabbit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+<img src="https://avatars1.githubusercontent.com/u/34749951?s=60&v=4"></img>
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
